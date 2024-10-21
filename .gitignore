@@ -1,0 +1,9 @@
+.idea
+.gradle
+build
+local.properties
+*.iml
+config.json
+logging.properties
+*.config.json
+*.log*
