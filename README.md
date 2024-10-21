@@ -5,7 +5,7 @@ A prometheus exporter for WooCommerce. Metrics are exposed at `/metrics`.
 
 ## Features
 
-- Orders: Webhook with `woocommerce_order_status_xyz` must be pointed to `/woocommerce-webhook`
+- Orders: WooCommerce webhook with action `woocommerce_order_status_xyz` must be pointed to `/woocommerce-webhook`!
 
 ## Using with docker
 
